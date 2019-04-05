@@ -35,6 +35,6 @@
 			<br>
 		<% } %>
 	
-	<a href="">추가메일 등록</a>
+	<a href="/emailbook2/eb?action=wform">추가메일 등록</a>
 </body>
 </html>
